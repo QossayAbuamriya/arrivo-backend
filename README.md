@@ -78,4 +78,4 @@ The app's folder structure is organized as follows:
 - **PUT /payments/:id**: Update the details of a specific payment. (Requires admin token)
 - **DELETE /payments/:id**: Delete a specific payment. (Requires admin token)
 
-#
+
